@@ -1,0 +1,41 @@
+main {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+main input {
+  background: none;
+  border: none;
+  outline: none;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  height: 40px;
+  padding: 10px;
+  margin: 50px 0;
+  transition: all .8s;
+}
+
+main input:focus {
+  border-color: #0ee;
+}
+
+main input::placeholder {
+  color: #bbb;
+}
+
+main a {
+  text-decoration: none;
+  color: #0ee;
+  border: #0ff 2px solid;
+  border-radius: 5px;
+  padding: 8px;
+  transition: all .8s;
+}
+
+main a:hover {
+  background-color: #0ee;
+  color: #fff;
+}

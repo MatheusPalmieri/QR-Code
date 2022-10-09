@@ -4,7 +4,7 @@
 
 <!-- Descrição -->
 
-<p align="center">Gera QR Code direcionando o link colocado no input.</p>
+<p align="center">Gera QR Code direcionando o link colocado no input. Com opção de baixar png do QR Code gerado.</p>
 
 <!-- Súmario -->
 
@@ -20,7 +20,7 @@
 
 ### Rodando A Aplicação
 
-<a href="https://matheuspalmieri-qr-code.netlify.app/">Site do Projeto</a>
+<a href="https://matheuspalmieri-qr-code.netlify.app/" target="_blank">Site do Projeto</a>
 
 ---
 

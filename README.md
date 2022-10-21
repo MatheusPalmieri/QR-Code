@@ -40,5 +40,5 @@ Create for <b>`Matheus Palmieri`</b>👨‍💻
 <br>
 <br>
 
-<p align="center">🎉Projeto Zip QR Code Finalizado🚀</p>
+<p align="center">🎉Projeto QR Code Finalizado🚀</p>
 
